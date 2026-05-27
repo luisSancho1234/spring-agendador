@@ -50,15 +50,15 @@ Esse controle permite acompanhar a execução das tarefas e abre espaço para fu
 
 ## 🏗️ Estrutura do projeto
 
-src/main/java/com/project/scheduler
-├── controller
-├── service
-├── repository
-├── models
-│   ├── entidades
-│   └── enums
-├── dto
-└── config
+src/main/java/com/project/scheduler  
+├── controller  
+├── service  
+├── repository  
+├── models  
+│   ├── entidades  
+│   └── enums  
+├── dto  
+└── config  
 
 ## ▶️ Como executar o projeto
 
