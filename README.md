@@ -1,4 +1,4 @@
-# 🚀 Agendador - Back-end
+# 🚀 Spring Agendador - Back-end
 
 Back-end do sistema **Agendador**, desenvolvido em **Java com Spring Boot**, com foco no gerenciamento de agendamentos, usuários e execução automática de tarefas programadas.
 
