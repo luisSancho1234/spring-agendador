@@ -1,0 +1,4 @@
+ALTER TABLE public.usuario_entidade
+    ADD COLUMN usuTxEmail VARCHAR(100) UNIQUE NOT NULL ,
+    ADD COLUMN usuTxSenha VARCHAR(255) NOT NULL,
+    ADD COLUMN usuTxRoles VARCHAR(100) NOT NULL;
